@@ -1,5 +1,5 @@
 # POC
-Proofs of Concept
+Proof of Concept
 
 I will upload the code when I get the chance.  In the meantime, go to http://clairenstreb.brinkster.net/poc where you will see two mobile applicatons written in ASP.NET, C#:
 
